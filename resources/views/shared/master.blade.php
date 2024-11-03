@@ -57,8 +57,8 @@
         </div><!-- /.container-fluid -->
       </nav>
 
-      <a href="https://github.com/lasselehtinen/onix-codelist">
-        <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ url('/svg/github-mark-white.svg')}}" alt="Fork me on GitHub">
+      <a href="https://github.com/lasselehtinen/onix-codelist" title="Fork me on GitHub">
+        <img style="position: absolute; top: 8px; right: 8px; border: 0; width: 44px;" src="{{ url('/svg/github-mark-white.svg')}}" alt="Fork me on GitHub">
       </a>
 
       <div class="container">
